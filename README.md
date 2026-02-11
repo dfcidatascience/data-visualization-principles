@@ -1,5 +1,6 @@
 # Data Visualization Principles
 
+- **Instructor:** Rafael A. Irizarry.
 - **Prerequisites:** None.
 - **Software:** R.
 - **Duration:** 1.5 hours.
