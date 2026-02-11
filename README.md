@@ -17,4 +17,3 @@ This training session introduces core principles of effective data visualization
 - [Creating Effective Figures and Tables](https://github.com/kbroman/Talk_Graphs) by Karl Broman.
 - [The Principle of Proportional Ink](https://callingbullshit.org/tools/tools_proportional_ink.html) by Carl Bergstrom and Jevin West.
 - [Misleading Axes on Graphs](https://callingbullshit.org/tools/tools_misleading_axes.html) by Carl Bergstrom and Jevin West.
-- [Bad Infographics: The Worst Infographics from last 5 Year (+ Lessons from it)](https://venngage.com/blog/bad-infographics/) by Lydia Hooper.
