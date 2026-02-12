@@ -11,7 +11,7 @@ This training session introduces core principles of effective data visualization
 
 ## Contents
 
-- [Code](dataviz-principles.qmd). Note that two images, "x-axis-too-big.png" and "x-axis-too-big-2.png", will not render because they are not included in this repo. We do not have permission to share them.
+- [Code](dataviz-principles.qmd). Note that two images, "x-axis-too-big.png" and "x-axis-too-big-2.png", will not render because they are not included in this repo. We do not have permission to share them. The data set "pop_gen_sample.RData" is also not available for sharing.
 
 ## Resources
 
