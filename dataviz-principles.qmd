@@ -582,11 +582,11 @@ plot(x, y, ylim = c(1, max(y[-which.max(y)])))
 
 ## Choosing Effective Axis Ranges
 
-![](img/x-axis-too-big.png)
+![](https://raw.githubusercontent.com/datasciencelabs/2022/refs/heads/master/dataviz/img/x-axis-too-big.png){fig-align="center" height=500}
 
 ## Choosing Effective Axis Ranges
 
-![](img/x-axis-too-big-2.png)
+![](https://raw.githubusercontent.com/datasciencelabs/2022/refs/heads/master/dataviz/img/x-axis-too-big-2.png){fig-align="center" height=500}
 
 
 
@@ -1180,6 +1180,6 @@ data.frame(PC1 = pc$x[,1], Population = pop) |>
 
 ## This is UMAP of negative controls
 
-![](img/umap.jpeg)
+![](https://raw.githubusercontent.com/datasciencelabs/2022/refs/heads/master/dataviz/img/umap.jpeg){fig-align="center" height=500}
 
 
